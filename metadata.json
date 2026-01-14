@@ -1,0 +1,5 @@
+{
+  "name": "Gooru Deck Builder",
+  "description": "Transforms competency statements into interactive learning decks using Gemini 3 Pro and Nano Banana Pro.",
+  "requestFramePermissions": []
+}
